@@ -1,7 +1,7 @@
 package main
 
 import "fmt"
-import "github.com/ameydev/go_assignment/basic"
+import "github.com/ameydev/go_assignment/basic/basic"
 
 
 func main() {
